@@ -1,0 +1,112 @@
+{
+  "playlist": [
+    {
+      "id": 1,
+      "name": "Despacito",
+      "author": "",
+      "single": "Luis Fonsi FT. Daddy Yankee",
+      "duration": 228,
+      "cover": "https://upload.wikimedia.org/wikipedia/vi/7/7d/Despacito_cover.jpeg",
+      "asset": "assets/audio/despacito.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Let Her Go",
+      "author": "",
+      "single": "Passenger",
+      "duration": 253,
+      "cover": "https://i.ytimg.com/vi/cRl49GkLf04/maxresdefault.jpg",
+      "asset": "assets/audio/let_her_go.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Let Me Down Slowly",
+      "author": "",
+      "single": "Alec Benjamin",
+      "duration": 169,
+      "cover": "https://m.media-amazon.com/images/I/51wbHwusFJL._UXNaN_FMjpg_QL85_.jpg",
+      "asset": "assets/audio/let_me_down_slowly.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Despacito",
+      "author": "",
+      "single": "Luis Fonsi FT. Daddy Yankee",
+      "duration": 228,
+      "cover": "https://upload.wikimedia.org/wikipedia/vi/7/7d/Despacito_cover.jpeg",
+      "asset": "assets/audio/despacito.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Let Her Go",
+      "author": "",
+      "single": "Passenger",
+      "duration": 253,
+      "cover": "https://i.ytimg.com/vi/cRl49GkLf04/maxresdefault.jpg",
+      "asset": "assets/audio/let_her_go.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Let Me Down Slowly",
+      "author": "",
+      "single": "Alec Benjamin",
+      "duration": 169,
+      "cover": "https://m.media-amazon.com/images/I/51wbHwusFJL._UXNaN_FMjpg_QL85_.jpg",
+      "asset": "assets/audio/let_me_down_slowly.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Despacito",
+      "author": "",
+      "single": "Luis Fonsi FT. Daddy Yankee",
+      "duration": 228,
+      "cover": "https://upload.wikimedia.org/wikipedia/vi/7/7d/Despacito_cover.jpeg",
+      "asset": "assets/audio/despacito.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Let Her Go",
+      "author": "",
+      "single": "Passenger",
+      "duration": 253,
+      "cover": "https://i.ytimg.com/vi/cRl49GkLf04/maxresdefault.jpg",
+      "asset": "assets/audio/let_her_go.mp3"
+    },
+    {
+      "id": 9,
+      "name": "Let Me Down Slowly",
+      "author": "",
+      "single": "Alec Benjamin",
+      "duration": 169,
+      "cover": "https://m.media-amazon.com/images/I/51wbHwusFJL._UXNaN_FMjpg_QL85_.jpg",
+      "asset": "assets/audio/let_me_down_slowly.mp3"
+    },
+    {
+      "id": 10,
+      "name": "Despacito",
+      "author": "",
+      "single": "Luis Fonsi FT. Daddy Yankee",
+      "duration": 228,
+      "cover": "https://upload.wikimedia.org/wikipedia/vi/7/7d/Despacito_cover.jpeg",
+      "asset": "assets/audio/despacito.mp3"
+    },
+    {
+      "id": 11,
+      "name": "Let Her Go",
+      "author": "",
+      "single": "Passenger",
+      "duration": 253,
+      "cover": "https://i.ytimg.com/vi/cRl49GkLf04/maxresdefault.jpg",
+      "asset": "assets/audio/let_her_go.mp3"
+    },
+    {
+      "id": 12,
+      "name": "Let Me Down Slowly",
+      "author": "",
+      "single": "Alec Benjamin",
+      "duration": 169,
+      "cover": "https://m.media-amazon.com/images/I/51wbHwusFJL._UXNaN_FMjpg_QL85_.jpg",
+      "asset": "assets/audio/let_me_down_slowly.mp3"
+    }
+  ]
+}
